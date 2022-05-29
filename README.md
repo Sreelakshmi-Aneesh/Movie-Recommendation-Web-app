@@ -4,7 +4,7 @@ In this project I have used content based filtering to create a very basic proto
 It is mostly based on the similarity of genre and content.
 The top 5 similar movies are recommended.
 
- <br /> ****Note: Since the similarity.pkl file , required for app.py to run was very large and unable to be uploaded, is attached in a drive link.
+ <br /> ****Note: Since the similarity.pkl file , required for app.py to run was very large and unable to be uploaded, is attached in a drive link.https://drive.google.com/file/d/18A6yiN_7NKudVCyPBe8fnywC1piUZkXj/view?usp=sharing
  
  # Data Preprocessing
 The data used is from https://www.kaggle.com/tmdb/tmdb-movie-metadata.
